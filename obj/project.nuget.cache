@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKdACsMPoa5ega5naq7CDdTwcQiJStQvJdJ3MNF930wvCXVrfO7FqFRRaZb9fn3iqgjnuzxJ5ovGLMkWwlQjqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\StatelessTest\\StatelessTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

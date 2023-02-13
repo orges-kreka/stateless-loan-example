@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StatelessTest/1.0.0": {
+        "dependencies": {
+          "Stateless": "5.12.0"
+        },
+        "runtime": {
+          "StatelessTest.dll": {}
+        }
+      },
+      "Stateless/5.12.0": {
+        "runtime": {
+          "lib/net6.0/Stateless.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.12.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StatelessTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stateless/5.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nUD9YhYMm5YYIPup1dUsAlHWmREp+N1aJtIsQwsCduYzUx3Zov2sPXJACzW0A2TleGTT7BoiV453CHm5tHVRqg==",
+      "path": "stateless/5.12.0",
+      "hashPath": "stateless.5.12.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\StatelessTest.exe
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\StatelessTest.deps.json
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\StatelessTest.runtimeconfig.json
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\StatelessTest.dll
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\StatelessTest.pdb
+C:\Users\User\RiderProjects\StatelessTest\bin\Debug\net7.0\Stateless.dll
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.AssemblyInfo.cs
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.csproj.CopyComplete
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.dll
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\refint\StatelessTest.dll
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.pdb
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\StatelessTest.genruntimeconfig.cache
+C:\Users\User\RiderProjects\StatelessTest\obj\Debug\net7.0\ref\StatelessTest.dll
