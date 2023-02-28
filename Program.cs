@@ -1,7 +1,6 @@
-﻿using Stateless;
-using StatelessTest;
+﻿using StatelessTest;
 
-var loanStatus = (int)LoanStatusEnum.Created;
+var loanStatus = (int)LoanStatusEnum.Defaulted;
 
 var loan = new Loan
 {
@@ -9,16 +8,13 @@ var loan = new Loan
     LoanStatus = new LoanStatus
     {
         Id = loanStatus,
-        Name = LoanStatusEnum.Created.ToString()
+        Name = ((LoanStatusEnum)loanStatus).ToString()
     }
 };
 
 var loanExample = new LoanExample();
 
-Console.WriteLine(loanExample.TryToChangeLoanStatus(loan, LoanStatusEnum.Created, Trigger.ManualChangeLO));
-
-//Console.Read();
-
+Console.WriteLine(loanExample.TryToChangeLoanStatus(loan, LoanStatusEnum.Repaid, Trigger.LastInstallmentPayment));
 
 
 
